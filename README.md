@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aman Tiwari
+- 👀 I’m interested in learning about technology
+- 🌱 I’m currently learning C++
+- ⚡ Fun fact: It's a Secret ..... I am still a learner and I am at very beginner level. and you have full rights to jugde me and suggest me what not to do...
